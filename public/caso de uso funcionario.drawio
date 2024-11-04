@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram name="Página-1" id="xfx3Cv4PpZm6ZAXTQJ1A">
+    <mxGraphModel dx="1578" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sumGXqHNnV0QohbHvNc_-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sumGXqHNnV0QohbHvNc_-1" target="sumGXqHNnV0QohbHvNc_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sumGXqHNnV0QohbHvNc_-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sumGXqHNnV0QohbHvNc_-1" target="sumGXqHNnV0QohbHvNc_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sumGXqHNnV0QohbHvNc_-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sumGXqHNnV0QohbHvNc_-1" target="sumGXqHNnV0QohbHvNc_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sumGXqHNnV0QohbHvNc_-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sumGXqHNnV0QohbHvNc_-1" target="sumGXqHNnV0QohbHvNc_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sumGXqHNnV0QohbHvNc_-1" value="Usuário&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sumGXqHNnV0QohbHvNc_-2" value="Cadastrar Funcionário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sumGXqHNnV0QohbHvNc_-3" value="Consultar Funcionário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sumGXqHNnV0QohbHvNc_-4" value="Atualizar Funcionário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="410" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sumGXqHNnV0QohbHvNc_-5" value="Excluir Funcionário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="510" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sumGXqHNnV0QohbHvNc_-10" value="Solicitar Confirmação de Exclusão" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="580" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sumGXqHNnV0QohbHvNc_-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1" source="sumGXqHNnV0QohbHvNc_-5" target="sumGXqHNnV0QohbHvNc_-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="460" as="sourcePoint" />
+            <mxPoint x="660" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
